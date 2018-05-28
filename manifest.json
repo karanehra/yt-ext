@@ -27,6 +27,7 @@
             ],
             "run_at": "document_idle",
             "js": [
+                "jquery.min.js",
                 "contentScript.js"
             ]
         }
